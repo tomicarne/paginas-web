@@ -1,0 +1,5005 @@
+{
+  "collection": "students",
+  "documents": [
+    {
+      "documentId": "U00960443",
+      "ID": "U00960443",
+      "Semestre": 6,
+      "email": "juan.martinez.castro001@unab.edu.co",
+      "nombre": "Juan Martínez Castro",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 60,
+          "nota": 2.7,
+          "progreso": 84,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 85,
+          "nota": 4.1,
+          "progreso": 100,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 70,
+          "nota": 4.3,
+          "progreso": 90,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 100,
+          "nota": 4.9,
+          "progreso": 94,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 92,
+          "nota": 2.7,
+          "progreso": 87,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00391925",
+      "ID": "U00391925",
+      "Semestre": 4,
+      "email": "maria.perez.restrepo002@unab.edu.co",
+      "nombre": "María Pérez Restrepo",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 100,
+          "nota": 3.8,
+          "progreso": 72,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 100,
+          "nota": 4.0,
+          "progreso": 80,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 81,
+          "nota": 3.2,
+          "progreso": 71,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 85,
+          "nota": 4.2,
+          "progreso": 79,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 94,
+          "nota": 4.2,
+          "progreso": 65,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00870755",
+      "ID": "U00870755",
+      "Semestre": 10,
+      "email": "carlos.ramirez.perez003@unab.edu.co",
+      "nombre": "Carlos Ramírez Pérez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 82,
+          "nota": 4.2,
+          "progreso": 54,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 77,
+          "nota": 3.9,
+          "progreso": 79,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 50,
+          "nota": 4.6,
+          "progreso": 79,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 88,
+          "nota": 2.6,
+          "progreso": 80,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 80,
+          "nota": 2.6,
+          "progreso": 75,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00440862",
+      "ID": "U00440862",
+      "Semestre": 3,
+      "email": "laura.castro.moreno004@unab.edu.co",
+      "nombre": "Laura Castro Moreno",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 77,
+          "nota": 2.2,
+          "progreso": 69,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 96,
+          "nota": 3.3,
+          "progreso": 80,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 90,
+          "nota": 2.3,
+          "progreso": 56,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 71,
+          "nota": 4.0,
+          "progreso": 76,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 66,
+          "nota": 4.3,
+          "progreso": 86,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00032903",
+      "ID": "U00032903",
+      "Semestre": 5,
+      "email": "andres.mendoza.rueda005@unab.edu.co",
+      "nombre": "Andrés Mendoza Rueda",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 99,
+          "nota": 4.2,
+          "progreso": 73,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 60,
+          "nota": 1.9,
+          "progreso": 80,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 84,
+          "nota": 4.1,
+          "progreso": 82,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 64,
+          "nota": 3.5,
+          "progreso": 87,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 98,
+          "nota": 3.5,
+          "progreso": 72,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00926159",
+      "ID": "U00926159",
+      "Semestre": 9,
+      "email": "valentina.ortiz.garcia006@unab.edu.co",
+      "nombre": "Valentina Ortiz García",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 90,
+          "nota": 3.6,
+          "progreso": 82,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 83,
+          "nota": 2.2,
+          "progreso": 82,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 62,
+          "nota": 4.1,
+          "progreso": 59,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 97,
+          "nota": 3.1,
+          "progreso": 78,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 67,
+          "nota": 1.9,
+          "progreso": 74,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00749965",
+      "ID": "U00749965",
+      "Semestre": 3,
+      "email": "santiago.gomez.navarro007@unab.edu.co",
+      "nombre": "Santiago Gómez Navarro",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 62,
+          "nota": 5.0,
+          "progreso": 84,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 58,
+          "nota": 4.0,
+          "progreso": 93,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 86,
+          "nota": 4.7,
+          "progreso": 74,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 90,
+          "nota": 3.9,
+          "progreso": 84,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 92,
+          "nota": 4.7,
+          "progreso": 72,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00792196",
+      "ID": "U00792196",
+      "Semestre": 1,
+      "email": "camila.lopez.gomez008@unab.edu.co",
+      "nombre": "Camila López Gómez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 75,
+          "nota": 4.1,
+          "progreso": 56,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 82,
+          "nota": 2.6,
+          "progreso": 65,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 75,
+          "nota": 3.6,
+          "progreso": 84,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 86,
+          "nota": 3.1,
+          "progreso": 75,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 45,
+          "nota": 3.8,
+          "progreso": 69,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00507609",
+      "ID": "U00507609",
+      "Semestre": 5,
+      "email": "daniel.garcia.sanchez009@unab.edu.co",
+      "nombre": "Daniel García Sánchez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 82,
+          "nota": 4.1,
+          "progreso": 79,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 93,
+          "nota": 3.3,
+          "progreso": 82,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 100,
+          "nota": 3.5,
+          "progreso": 80,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 80,
+          "nota": 3.6,
+          "progreso": 100,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 85,
+          "nota": 3.7,
+          "progreso": 94,
+          "riesgo": "LOW"
+        }
+      ]
+    },
+    {
+      "documentId": "U00193085",
+      "ID": "U00193085",
+      "Semestre": 10,
+      "email": "sofia.torres.mendoza010@unab.edu.co",
+      "nombre": "Sofía Torres Mendoza",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 91,
+          "nota": 2.6,
+          "progreso": 90,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 94,
+          "nota": 2.2,
+          "progreso": 89,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 90,
+          "nota": 5.0,
+          "progreso": 65,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 89,
+          "nota": 2.8,
+          "progreso": 75,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 88,
+          "nota": 2.6,
+          "progreso": 76,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00325207",
+      "ID": "U00325207",
+      "Semestre": 10,
+      "email": "miguel.moreno.rodriguez011@unab.edu.co",
+      "nombre": "Miguel Moreno Rodríguez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 86,
+          "nota": 4.3,
+          "progreso": 82,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 83,
+          "nota": 2.8,
+          "progreso": 99,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 100,
+          "nota": 3.5,
+          "progreso": 82,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 98,
+          "nota": 3.9,
+          "progreso": 88,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 79,
+          "nota": 3.7,
+          "progreso": 75,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00089797",
+      "ID": "U00089797",
+      "Semestre": 6,
+      "email": "natalia.suarez.ramirez012@unab.edu.co",
+      "nombre": "Natalia Suárez Ramírez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 92,
+          "nota": 2.1,
+          "progreso": 78,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 88,
+          "nota": 3.3,
+          "progreso": 90,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 61,
+          "nota": 3.6,
+          "progreso": 80,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 84,
+          "nota": 3.5,
+          "progreso": 92,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 72,
+          "nota": 1.8,
+          "progreso": 58,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00637276",
+      "ID": "U00637276",
+      "Semestre": 9,
+      "email": "sebastian.restrepo.suarez013@unab.edu.co",
+      "nombre": "Sebastián Restrepo Suárez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 68,
+          "nota": 4.3,
+          "progreso": 65,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 87,
+          "nota": 4.4,
+          "progreso": 88,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 80,
+          "nota": 3.2,
+          "progreso": 77,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 100,
+          "nota": 4.1,
+          "progreso": 49,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 84,
+          "nota": 2.5,
+          "progreso": 78,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00217584",
+      "ID": "U00217584",
+      "Semestre": 8,
+      "email": "paula.rodriguez.martinez014@unab.edu.co",
+      "nombre": "Paula Rodríguez Martínez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 65,
+          "nota": 3.2,
+          "progreso": 71,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 67,
+          "nota": 4.1,
+          "progreso": 65,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 89,
+          "nota": 4.3,
+          "progreso": 89,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 95,
+          "nota": 2.4,
+          "progreso": 61,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 91,
+          "nota": 4.4,
+          "progreso": 81,
+          "riesgo": "LOW"
+        }
+      ]
+    },
+    {
+      "documentId": "U00523370",
+      "ID": "U00523370",
+      "Semestre": 10,
+      "email": "david.hernandez.torres015@unab.edu.co",
+      "nombre": "David Hernández Torres",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 84,
+          "nota": 2.5,
+          "progreso": 78,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 93,
+          "nota": 2.4,
+          "progreso": 53,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 93,
+          "nota": 1.7,
+          "progreso": 61,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 98,
+          "nota": 5.0,
+          "progreso": 61,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 67,
+          "nota": 4.7,
+          "progreso": 83,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00502880",
+      "ID": "U00502880",
+      "Semestre": 3,
+      "email": "gabriela.sanchez.cardenas016@unab.edu.co",
+      "nombre": "Gabriela Sánchez Cárdenas",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 88,
+          "nota": 3.9,
+          "progreso": 85,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 95,
+          "nota": 2.7,
+          "progreso": 80,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 78,
+          "nota": 2.6,
+          "progreso": 60,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 88,
+          "nota": 4.7,
+          "progreso": 60,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 84,
+          "nota": 4.5,
+          "progreso": 79,
+          "riesgo": "LOW"
+        }
+      ]
+    },
+    {
+      "documentId": "U00956201",
+      "ID": "U00956201",
+      "Semestre": 2,
+      "email": "mateo.vargas.lopez017@unab.edu.co",
+      "nombre": "Mateo Vargas López",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 100,
+          "nota": 4.2,
+          "progreso": 70,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 71,
+          "nota": 2.1,
+          "progreso": 94,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 79,
+          "nota": 4.5,
+          "progreso": 85,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 98,
+          "nota": 3.1,
+          "progreso": 75,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 88,
+          "nota": 2.6,
+          "progreso": 85,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00219266",
+      "ID": "U00219266",
+      "Semestre": 1,
+      "email": "isabella.navarro.vargas018@unab.edu.co",
+      "nombre": "Isabella Navarro Vargas",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 69,
+          "nota": 3.4,
+          "progreso": 68,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 73,
+          "nota": 3.0,
+          "progreso": 51,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 82,
+          "nota": 3.8,
+          "progreso": 74,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 82,
+          "nota": 4.9,
+          "progreso": 55,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 78,
+          "nota": 3.8,
+          "progreso": 60,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00294041",
+      "ID": "U00294041",
+      "Semestre": 3,
+      "email": "nicolas.cardenas.ortiz019@unab.edu.co",
+      "nombre": "Nicolás Cárdenas Ortiz",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 73,
+          "nota": 4.5,
+          "progreso": 81,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 88,
+          "nota": 2.9,
+          "progreso": 74,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 72,
+          "nota": 3.0,
+          "progreso": 87,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 78,
+          "nota": 4.2,
+          "progreso": 85,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 82,
+          "nota": 4.5,
+          "progreso": 99,
+          "riesgo": "LOW"
+        }
+      ]
+    },
+    {
+      "documentId": "U00584406",
+      "ID": "U00584406",
+      "Semestre": 10,
+      "email": "alejandra.rueda.hernandez020@unab.edu.co",
+      "nombre": "Alejandra Rueda Hernández",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 57,
+          "nota": 2.9,
+          "progreso": 76,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 100,
+          "nota": 3.0,
+          "progreso": 79,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 93,
+          "nota": 4.0,
+          "progreso": 67,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 82,
+          "nota": 3.0,
+          "progreso": 68,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 83,
+          "nota": 3.3,
+          "progreso": 85,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00576992",
+      "ID": "U00576992",
+      "Semestre": 7,
+      "email": "felipe.martinez.castro021@unab.edu.co",
+      "nombre": "Felipe Martínez Castro",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 89,
+          "nota": 3.6,
+          "progreso": 94,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 77,
+          "nota": 3.5,
+          "progreso": 75,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 72,
+          "nota": 3.0,
+          "progreso": 49,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 90,
+          "nota": 4.2,
+          "progreso": 100,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 100,
+          "nota": 3.0,
+          "progreso": 69,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00266997",
+      "ID": "U00266997",
+      "Semestre": 10,
+      "email": "manuela.perez.restrepo022@unab.edu.co",
+      "nombre": "Manuela Pérez Restrepo",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 80,
+          "nota": 4.1,
+          "progreso": 79,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 76,
+          "nota": 2.5,
+          "progreso": 81,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 89,
+          "nota": 3.9,
+          "progreso": 58,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 76,
+          "nota": 4.7,
+          "progreso": 70,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 77,
+          "nota": 3.1,
+          "progreso": 77,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00616708",
+      "ID": "U00616708",
+      "Semestre": 3,
+      "email": "diego.ramirez.perez023@unab.edu.co",
+      "nombre": "Diego Ramírez Pérez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 80,
+          "nota": 2.7,
+          "progreso": 86,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 98,
+          "nota": 3.0,
+          "progreso": 83,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 76,
+          "nota": 2.4,
+          "progreso": 100,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 80,
+          "nota": 3.5,
+          "progreso": 93,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 71,
+          "nota": 4.3,
+          "progreso": 51,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00555228",
+      "ID": "U00555228",
+      "Semestre": 6,
+      "email": "sara.castro.moreno024@unab.edu.co",
+      "nombre": "Sara Castro Moreno",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 64,
+          "nota": 2.3,
+          "progreso": 65,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 86,
+          "nota": 3.6,
+          "progreso": 71,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 85,
+          "nota": 2.9,
+          "progreso": 81,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 68,
+          "nota": 2.1,
+          "progreso": 91,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 89,
+          "nota": 3.2,
+          "progreso": 78,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00238565",
+      "ID": "U00238565",
+      "Semestre": 9,
+      "email": "julian.mendoza.rueda025@unab.edu.co",
+      "nombre": "Julián Mendoza Rueda",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 85,
+          "nota": 4.5,
+          "progreso": 92,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 56,
+          "nota": 3.3,
+          "progreso": 89,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 100,
+          "nota": 3.2,
+          "progreso": 73,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 84,
+          "nota": 3.3,
+          "progreso": 72,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 80,
+          "nota": 3.8,
+          "progreso": 70,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00005856",
+      "ID": "U00005856",
+      "Semestre": 6,
+      "email": "ana.ortiz.garcia026@unab.edu.co",
+      "nombre": "Ana Ortiz García",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 79,
+          "nota": 3.1,
+          "progreso": 57,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 100,
+          "nota": 2.3,
+          "progreso": 83,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 82,
+          "nota": 3.6,
+          "progreso": 79,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 100,
+          "nota": 2.2,
+          "progreso": 79,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 98,
+          "nota": 4.3,
+          "progreso": 78,
+          "riesgo": "LOW"
+        }
+      ]
+    },
+    {
+      "documentId": "U00057886",
+      "ID": "U00057886",
+      "Semestre": 4,
+      "email": "samuel.gomez.navarro027@unab.edu.co",
+      "nombre": "Samuel Gómez Navarro",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 76,
+          "nota": 4.1,
+          "progreso": 95,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 85,
+          "nota": 4.2,
+          "progreso": 80,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 100,
+          "nota": 4.6,
+          "progreso": 100,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 81,
+          "nota": 5.0,
+          "progreso": 79,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 67,
+          "nota": 4.3,
+          "progreso": 83,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00991191",
+      "ID": "U00991191",
+      "Semestre": 8,
+      "email": "daniela.lopez.gomez028@unab.edu.co",
+      "nombre": "Daniela López Gómez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 72,
+          "nota": 1.8,
+          "progreso": 79,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 70,
+          "nota": 3.2,
+          "progreso": 64,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 82,
+          "nota": 4.5,
+          "progreso": 80,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 84,
+          "nota": 3.6,
+          "progreso": 71,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 78,
+          "nota": 4.6,
+          "progreso": 86,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00204432",
+      "ID": "U00204432",
+      "Semestre": 5,
+      "email": "tomas.garcia.sanchez029@unab.edu.co",
+      "nombre": "Tomás García Sánchez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 73,
+          "nota": 4.3,
+          "progreso": 100,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 94,
+          "nota": 3.9,
+          "progreso": 84,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 48,
+          "nota": 3.3,
+          "progreso": 97,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 87,
+          "nota": 4.3,
+          "progreso": 81,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 99,
+          "nota": 3.9,
+          "progreso": 74,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00291111",
+      "ID": "U00291111",
+      "Semestre": 1,
+      "email": "mariana.torres.mendoza030@unab.edu.co",
+      "nombre": "Mariana Torres Mendoza",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 79,
+          "nota": 4.9,
+          "progreso": 88,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 59,
+          "nota": 3.7,
+          "progreso": 98,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 91,
+          "nota": 2.4,
+          "progreso": 63,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 86,
+          "nota": 4.1,
+          "progreso": 70,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 85,
+          "nota": 3.2,
+          "progreso": 64,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00376352",
+      "ID": "U00376352",
+      "Semestre": 8,
+      "email": "esteban.moreno.rodriguez031@unab.edu.co",
+      "nombre": "Esteban Moreno Rodríguez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 79,
+          "nota": 2.7,
+          "progreso": 87,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 100,
+          "nota": 4.3,
+          "progreso": 84,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 70,
+          "nota": 4.0,
+          "progreso": 84,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 96,
+          "nota": 2.7,
+          "progreso": 59,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 100,
+          "nota": 4.3,
+          "progreso": 82,
+          "riesgo": "LOW"
+        }
+      ]
+    },
+    {
+      "documentId": "U00241906",
+      "ID": "U00241906",
+      "Semestre": 8,
+      "email": "luciana.suarez.ramirez032@unab.edu.co",
+      "nombre": "Luciana Suárez Ramírez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 100,
+          "nota": 5.0,
+          "progreso": 90,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 77,
+          "nota": 4.2,
+          "progreso": 82,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 100,
+          "nota": 3.3,
+          "progreso": 76,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 86,
+          "nota": 3.5,
+          "progreso": 94,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 60,
+          "nota": 4.4,
+          "progreso": 75,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00904857",
+      "ID": "U00904857",
+      "Semestre": 2,
+      "email": "jorge.restrepo.suarez033@unab.edu.co",
+      "nombre": "Jorge Restrepo Suárez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 77,
+          "nota": 4.2,
+          "progreso": 55,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 63,
+          "nota": 2.9,
+          "progreso": 87,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 69,
+          "nota": 2.6,
+          "progreso": 82,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 100,
+          "nota": 4.7,
+          "progreso": 67,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 74,
+          "nota": 3.9,
+          "progreso": 63,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00012742",
+      "ID": "U00012742",
+      "Semestre": 6,
+      "email": "carolina.rodriguez.martinez034@unab.edu.co",
+      "nombre": "Carolina Rodríguez Martínez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 94,
+          "nota": 2.3,
+          "progreso": 61,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 70,
+          "nota": 4.5,
+          "progreso": 79,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 69,
+          "nota": 4.1,
+          "progreso": 81,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 83,
+          "nota": 4.6,
+          "progreso": 61,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 58,
+          "nota": 3.6,
+          "progreso": 87,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00017243",
+      "ID": "U00017243",
+      "Semestre": 6,
+      "email": "cristian.hernandez.torres035@unab.edu.co",
+      "nombre": "Cristian Hernández Torres",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 94,
+          "nota": 4.2,
+          "progreso": 97,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 91,
+          "nota": 1.9,
+          "progreso": 65,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 68,
+          "nota": 2.5,
+          "progreso": 75,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 100,
+          "nota": 1.8,
+          "progreso": 73,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 83,
+          "nota": 4.6,
+          "progreso": 85,
+          "riesgo": "LOW"
+        }
+      ]
+    },
+    {
+      "documentId": "U00561028",
+      "ID": "U00561028",
+      "Semestre": 7,
+      "email": "valeria.sanchez.cardenas036@unab.edu.co",
+      "nombre": "Valeria Sánchez Cárdenas",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 88,
+          "nota": 2.8,
+          "progreso": 65,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 73,
+          "nota": 4.1,
+          "progreso": 73,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 71,
+          "nota": 4.5,
+          "progreso": 78,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 68,
+          "nota": 4.8,
+          "progreso": 93,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 79,
+          "nota": 3.2,
+          "progreso": 84,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00881453",
+      "ID": "U00881453",
+      "Semestre": 6,
+      "email": "jose.vargas.lopez037@unab.edu.co",
+      "nombre": "José Vargas López",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 81,
+          "nota": 3.0,
+          "progreso": 80,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 71,
+          "nota": 4.4,
+          "progreso": 77,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 69,
+          "nota": 4.9,
+          "progreso": 56,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 74,
+          "nota": 3.3,
+          "progreso": 75,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 65,
+          "nota": 4.4,
+          "progreso": 72,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00526197",
+      "ID": "U00526197",
+      "Semestre": 4,
+      "email": "juliana.navarro.vargas038@unab.edu.co",
+      "nombre": "Juliana Navarro Vargas",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 62,
+          "nota": 4.9,
+          "progreso": 84,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 80,
+          "nota": 4.8,
+          "progreso": 79,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 92,
+          "nota": 2.8,
+          "progreso": 88,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 64,
+          "nota": 4.2,
+          "progreso": 73,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 68,
+          "nota": 3.7,
+          "progreso": 90,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00943057",
+      "ID": "U00943057",
+      "Semestre": 4,
+      "email": "kevin.cardenas.ortiz039@unab.edu.co",
+      "nombre": "Kevin Cárdenas Ortiz",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 83,
+          "nota": 3.6,
+          "progreso": 86,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 78,
+          "nota": 2.6,
+          "progreso": 84,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 100,
+          "nota": 4.7,
+          "progreso": 60,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 83,
+          "nota": 2.9,
+          "progreso": 78,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 74,
+          "nota": 3.8,
+          "progreso": 82,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00666244",
+      "ID": "U00666244",
+      "Semestre": 2,
+      "email": "andrea.rueda.hernandez040@unab.edu.co",
+      "nombre": "Andrea Rueda Hernández",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 94,
+          "nota": 3.9,
+          "progreso": 87,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 83,
+          "nota": 3.5,
+          "progreso": 89,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 90,
+          "nota": 3.1,
+          "progreso": 88,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 90,
+          "nota": 2.3,
+          "progreso": 91,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 78,
+          "nota": 4.6,
+          "progreso": 64,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00300039",
+      "ID": "U00300039",
+      "Semestre": 9,
+      "email": "luis.martinez.castro041@unab.edu.co",
+      "nombre": "Luis Martínez Castro",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 79,
+          "nota": 3.1,
+          "progreso": 89,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 61,
+          "nota": 3.4,
+          "progreso": 99,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 79,
+          "nota": 3.9,
+          "progreso": 70,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 74,
+          "nota": 3.5,
+          "progreso": 74,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 65,
+          "nota": 3.5,
+          "progreso": 68,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00715799",
+      "ID": "U00715799",
+      "Semestre": 2,
+      "email": "melissa.perez.restrepo042@unab.edu.co",
+      "nombre": "Melissa Pérez Restrepo",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 100,
+          "nota": 2.9,
+          "progreso": 63,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 93,
+          "nota": 2.4,
+          "progreso": 79,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 92,
+          "nota": 3.2,
+          "progreso": 79,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 83,
+          "nota": 4.1,
+          "progreso": 90,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 84,
+          "nota": 3.0,
+          "progreso": 71,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00588700",
+      "ID": "U00588700",
+      "Semestre": 7,
+      "email": "ricardo.ramirez.perez043@unab.edu.co",
+      "nombre": "Ricardo Ramírez Pérez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 71,
+          "nota": 4.4,
+          "progreso": 58,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 82,
+          "nota": 4.7,
+          "progreso": 75,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 78,
+          "nota": 4.9,
+          "progreso": 88,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 86,
+          "nota": 2.8,
+          "progreso": 50,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 77,
+          "nota": 2.1,
+          "progreso": 93,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00321199",
+      "ID": "U00321199",
+      "Semestre": 3,
+      "email": "diana.castro.moreno044@unab.edu.co",
+      "nombre": "Diana Castro Moreno",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 77,
+          "nota": 4.8,
+          "progreso": 92,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 69,
+          "nota": 4.1,
+          "progreso": 87,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 92,
+          "nota": 4.2,
+          "progreso": 84,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 78,
+          "nota": 1.8,
+          "progreso": 83,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 52,
+          "nota": 1.9,
+          "progreso": 79,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00104047",
+      "ID": "U00104047",
+      "Semestre": 4,
+      "email": "mauricio.mendoza.rueda045@unab.edu.co",
+      "nombre": "Mauricio Mendoza Rueda",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 77,
+          "nota": 3.9,
+          "progreso": 50,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 85,
+          "nota": 2.4,
+          "progreso": 61,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 73,
+          "nota": 2.9,
+          "progreso": 70,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 93,
+          "nota": 3.4,
+          "progreso": 58,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 100,
+          "nota": 4.7,
+          "progreso": 74,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00524230",
+      "ID": "U00524230",
+      "Semestre": 3,
+      "email": "tatiana.ortiz.garcia046@unab.edu.co",
+      "nombre": "Tatiana Ortiz García",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 96,
+          "nota": 3.0,
+          "progreso": 84,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 86,
+          "nota": 4.3,
+          "progreso": 83,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 98,
+          "nota": 2.8,
+          "progreso": 95,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 75,
+          "nota": 2.5,
+          "progreso": 83,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 68,
+          "nota": 2.0,
+          "progreso": 62,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00200420",
+      "ID": "U00200420",
+      "Semestre": 6,
+      "email": "alvaro.gomez.navarro047@unab.edu.co",
+      "nombre": "Álvaro Gómez Navarro",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 98,
+          "nota": 3.0,
+          "progreso": 80,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 88,
+          "nota": 4.3,
+          "progreso": 88,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 90,
+          "nota": 3.3,
+          "progreso": 86,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 66,
+          "nota": 3.4,
+          "progreso": 89,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 62,
+          "nota": 5.0,
+          "progreso": 80,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00384407",
+      "ID": "U00384407",
+      "Semestre": 1,
+      "email": "catalina.lopez.gomez048@unab.edu.co",
+      "nombre": "Catalina López Gómez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 80,
+          "nota": 2.9,
+          "progreso": 84,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 100,
+          "nota": 2.2,
+          "progreso": 79,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 81,
+          "nota": 3.2,
+          "progreso": 79,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 91,
+          "nota": 4.4,
+          "progreso": 78,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 90,
+          "nota": 2.9,
+          "progreso": 66,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00924493",
+      "ID": "U00924493",
+      "Semestre": 8,
+      "email": "oscar.garcia.sanchez049@unab.edu.co",
+      "nombre": "Óscar García Sánchez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 100,
+          "nota": 3.1,
+          "progreso": 84,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 54,
+          "nota": 4.6,
+          "progreso": 83,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 77,
+          "nota": 2.9,
+          "progreso": 79,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 83,
+          "nota": 3.9,
+          "progreso": 84,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 48,
+          "nota": 2.1,
+          "progreso": 77,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00753769",
+      "ID": "U00753769",
+      "Semestre": 1,
+      "email": "monica.torres.mendoza050@unab.edu.co",
+      "nombre": "Mónica Torres Mendoza",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 70,
+          "nota": 4.7,
+          "progreso": 70,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 87,
+          "nota": 1.7,
+          "progreso": 85,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 81,
+          "nota": 2.5,
+          "progreso": 76,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 100,
+          "nota": 2.5,
+          "progreso": 85,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 79,
+          "nota": 2.2,
+          "progreso": 70,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00947078",
+      "ID": "U00947078",
+      "Semestre": 4,
+      "email": "juan.moreno.rodriguez051@unab.edu.co",
+      "nombre": "Juan Moreno Rodríguez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 77,
+          "nota": 4.7,
+          "progreso": 100,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 71,
+          "nota": 2.4,
+          "progreso": 86,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 81,
+          "nota": 3.5,
+          "progreso": 82,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 98,
+          "nota": 4.4,
+          "progreso": 70,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 61,
+          "nota": 4.1,
+          "progreso": 76,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00900946",
+      "ID": "U00900946",
+      "Semestre": 5,
+      "email": "maria.suarez.ramirez052@unab.edu.co",
+      "nombre": "María Suárez Ramírez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 75,
+          "nota": 2.6,
+          "progreso": 79,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 100,
+          "nota": 3.0,
+          "progreso": 66,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 60,
+          "nota": 2.4,
+          "progreso": 83,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 100,
+          "nota": 4.6,
+          "progreso": 48,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 83,
+          "nota": 4.6,
+          "progreso": 86,
+          "riesgo": "LOW"
+        }
+      ]
+    },
+    {
+      "documentId": "U00805242",
+      "ID": "U00805242",
+      "Semestre": 7,
+      "email": "carlos.restrepo.suarez053@unab.edu.co",
+      "nombre": "Carlos Restrepo Suárez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 67,
+          "nota": 4.7,
+          "progreso": 74,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 80,
+          "nota": 2.6,
+          "progreso": 72,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 92,
+          "nota": 3.1,
+          "progreso": 97,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 62,
+          "nota": 3.5,
+          "progreso": 40,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 50,
+          "nota": 2.5,
+          "progreso": 68,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00655980",
+      "ID": "U00655980",
+      "Semestre": 10,
+      "email": "laura.rodriguez.martinez054@unab.edu.co",
+      "nombre": "Laura Rodríguez Martínez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 87,
+          "nota": 4.4,
+          "progreso": 99,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 90,
+          "nota": 3.6,
+          "progreso": 62,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 81,
+          "nota": 4.0,
+          "progreso": 62,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 97,
+          "nota": 1.9,
+          "progreso": 85,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 77,
+          "nota": 4.0,
+          "progreso": 82,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00110292",
+      "ID": "U00110292",
+      "Semestre": 2,
+      "email": "andres.hernandez.torres055@unab.edu.co",
+      "nombre": "Andrés Hernández Torres",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 100,
+          "nota": 2.8,
+          "progreso": 83,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 61,
+          "nota": 2.1,
+          "progreso": 95,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 86,
+          "nota": 4.1,
+          "progreso": 92,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 63,
+          "nota": 2.6,
+          "progreso": 72,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 90,
+          "nota": 4.4,
+          "progreso": 63,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00263388",
+      "ID": "U00263388",
+      "Semestre": 8,
+      "email": "valentina.sanchez.cardenas056@unab.edu.co",
+      "nombre": "Valentina Sánchez Cárdenas",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 89,
+          "nota": 3.2,
+          "progreso": 90,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 75,
+          "nota": 4.1,
+          "progreso": 100,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 97,
+          "nota": 4.9,
+          "progreso": 100,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 84,
+          "nota": 4.5,
+          "progreso": 77,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 58,
+          "nota": 3.9,
+          "progreso": 71,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00622070",
+      "ID": "U00622070",
+      "Semestre": 1,
+      "email": "santiago.vargas.lopez057@unab.edu.co",
+      "nombre": "Santiago Vargas López",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 80,
+          "nota": 4.4,
+          "progreso": 64,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 72,
+          "nota": 2.7,
+          "progreso": 79,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 95,
+          "nota": 4.5,
+          "progreso": 86,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 85,
+          "nota": 4.0,
+          "progreso": 71,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 87,
+          "nota": 2.5,
+          "progreso": 68,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00606751",
+      "ID": "U00606751",
+      "Semestre": 7,
+      "email": "camila.navarro.vargas058@unab.edu.co",
+      "nombre": "Camila Navarro Vargas",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 81,
+          "nota": 4.0,
+          "progreso": 100,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 100,
+          "nota": 3.6,
+          "progreso": 79,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 75,
+          "nota": 3.0,
+          "progreso": 97,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 85,
+          "nota": 3.4,
+          "progreso": 58,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 90,
+          "nota": 4.4,
+          "progreso": 73,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00158868",
+      "ID": "U00158868",
+      "Semestre": 9,
+      "email": "daniel.cardenas.ortiz059@unab.edu.co",
+      "nombre": "Daniel Cárdenas Ortiz",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 80,
+          "nota": 3.6,
+          "progreso": 98,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 79,
+          "nota": 3.2,
+          "progreso": 72,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 77,
+          "nota": 5.0,
+          "progreso": 53,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 64,
+          "nota": 3.7,
+          "progreso": 56,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 98,
+          "nota": 2.4,
+          "progreso": 87,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00913833",
+      "ID": "U00913833",
+      "Semestre": 2,
+      "email": "sofia.rueda.hernandez060@unab.edu.co",
+      "nombre": "Sofía Rueda Hernández",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 90,
+          "nota": 1.8,
+          "progreso": 90,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 88,
+          "nota": 2.5,
+          "progreso": 55,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 72,
+          "nota": 3.8,
+          "progreso": 50,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 79,
+          "nota": 2.5,
+          "progreso": 61,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 72,
+          "nota": 3.6,
+          "progreso": 81,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00130657",
+      "ID": "U00130657",
+      "Semestre": 6,
+      "email": "miguel.martinez.castro061@unab.edu.co",
+      "nombre": "Miguel Martínez Castro",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 96,
+          "nota": 3.6,
+          "progreso": 72,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 100,
+          "nota": 3.3,
+          "progreso": 76,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 96,
+          "nota": 3.6,
+          "progreso": 78,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 66,
+          "nota": 1.9,
+          "progreso": 81,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 82,
+          "nota": 2.2,
+          "progreso": 74,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00191740",
+      "ID": "U00191740",
+      "Semestre": 1,
+      "email": "natalia.perez.restrepo062@unab.edu.co",
+      "nombre": "Natalia Pérez Restrepo",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 88,
+          "nota": 4.5,
+          "progreso": 100,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 85,
+          "nota": 2.8,
+          "progreso": 96,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 83,
+          "nota": 2.2,
+          "progreso": 96,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 85,
+          "nota": 2.3,
+          "progreso": 85,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 88,
+          "nota": 2.3,
+          "progreso": 71,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00883045",
+      "ID": "U00883045",
+      "Semestre": 9,
+      "email": "sebastian.ramirez.perez063@unab.edu.co",
+      "nombre": "Sebastián Ramírez Pérez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 73,
+          "nota": 2.9,
+          "progreso": 81,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 60,
+          "nota": 2.9,
+          "progreso": 79,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 78,
+          "nota": 3.6,
+          "progreso": 94,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 86,
+          "nota": 1.9,
+          "progreso": 72,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 97,
+          "nota": 2.6,
+          "progreso": 89,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00321106",
+      "ID": "U00321106",
+      "Semestre": 10,
+      "email": "paula.castro.moreno064@unab.edu.co",
+      "nombre": "Paula Castro Moreno",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 71,
+          "nota": 4.0,
+          "progreso": 80,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 71,
+          "nota": 3.7,
+          "progreso": 83,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 67,
+          "nota": 3.0,
+          "progreso": 96,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 87,
+          "nota": 3.1,
+          "progreso": 70,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 91,
+          "nota": 3.6,
+          "progreso": 74,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00273761",
+      "ID": "U00273761",
+      "Semestre": 7,
+      "email": "david.mendoza.rueda065@unab.edu.co",
+      "nombre": "David Mendoza Rueda",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 60,
+          "nota": 4.4,
+          "progreso": 70,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 78,
+          "nota": 4.1,
+          "progreso": 83,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 62,
+          "nota": 3.1,
+          "progreso": 79,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 78,
+          "nota": 3.9,
+          "progreso": 84,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 91,
+          "nota": 2.9,
+          "progreso": 81,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00805374",
+      "ID": "U00805374",
+      "Semestre": 5,
+      "email": "gabriela.ortiz.garcia066@unab.edu.co",
+      "nombre": "Gabriela Ortiz García",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 99,
+          "nota": 4.2,
+          "progreso": 100,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 96,
+          "nota": 3.6,
+          "progreso": 66,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 69,
+          "nota": 3.1,
+          "progreso": 78,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 95,
+          "nota": 4.7,
+          "progreso": 65,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 60,
+          "nota": 4.0,
+          "progreso": 78,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00198930",
+      "ID": "U00198930",
+      "Semestre": 7,
+      "email": "mateo.gomez.navarro067@unab.edu.co",
+      "nombre": "Mateo Gómez Navarro",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 69,
+          "nota": 2.3,
+          "progreso": 88,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 94,
+          "nota": 3.3,
+          "progreso": 100,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 100,
+          "nota": 4.1,
+          "progreso": 98,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 91,
+          "nota": 4.5,
+          "progreso": 68,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 99,
+          "nota": 2.6,
+          "progreso": 100,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00495618",
+      "ID": "U00495618",
+      "Semestre": 4,
+      "email": "isabella.lopez.gomez068@unab.edu.co",
+      "nombre": "Isabella López Gómez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 68,
+          "nota": 3.6,
+          "progreso": 93,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 82,
+          "nota": 2.6,
+          "progreso": 56,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 86,
+          "nota": 2.2,
+          "progreso": 95,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 69,
+          "nota": 3.4,
+          "progreso": 68,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 64,
+          "nota": 2.6,
+          "progreso": 73,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00301047",
+      "ID": "U00301047",
+      "Semestre": 1,
+      "email": "nicolas.garcia.sanchez069@unab.edu.co",
+      "nombre": "Nicolás García Sánchez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 63,
+          "nota": 3.4,
+          "progreso": 95,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 56,
+          "nota": 3.4,
+          "progreso": 77,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 94,
+          "nota": 3.0,
+          "progreso": 92,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 98,
+          "nota": 2.9,
+          "progreso": 72,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 78,
+          "nota": 3.3,
+          "progreso": 80,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00519893",
+      "ID": "U00519893",
+      "Semestre": 5,
+      "email": "alejandra.torres.mendoza070@unab.edu.co",
+      "nombre": "Alejandra Torres Mendoza",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 100,
+          "nota": 2.8,
+          "progreso": 89,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 63,
+          "nota": 2.9,
+          "progreso": 80,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 60,
+          "nota": 3.6,
+          "progreso": 56,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 78,
+          "nota": 3.2,
+          "progreso": 64,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 90,
+          "nota": 3.7,
+          "progreso": 97,
+          "riesgo": "LOW"
+        }
+      ]
+    },
+    {
+      "documentId": "U00736910",
+      "ID": "U00736910",
+      "Semestre": 9,
+      "email": "felipe.moreno.rodriguez071@unab.edu.co",
+      "nombre": "Felipe Moreno Rodríguez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 87,
+          "nota": 1.8,
+          "progreso": 79,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 67,
+          "nota": 3.4,
+          "progreso": 82,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 64,
+          "nota": 3.2,
+          "progreso": 86,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 68,
+          "nota": 2.3,
+          "progreso": 74,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 90,
+          "nota": 3.3,
+          "progreso": 81,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00953395",
+      "ID": "U00953395",
+      "Semestre": 3,
+      "email": "manuela.suarez.ramirez072@unab.edu.co",
+      "nombre": "Manuela Suárez Ramírez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 74,
+          "nota": 4.6,
+          "progreso": 96,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 100,
+          "nota": 3.5,
+          "progreso": 72,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 88,
+          "nota": 4.7,
+          "progreso": 86,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 94,
+          "nota": 4.6,
+          "progreso": 84,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 76,
+          "nota": 3.2,
+          "progreso": 89,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00516860",
+      "ID": "U00516860",
+      "Semestre": 5,
+      "email": "diego.restrepo.suarez073@unab.edu.co",
+      "nombre": "Diego Restrepo Suárez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 70,
+          "nota": 3.3,
+          "progreso": 69,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 100,
+          "nota": 4.3,
+          "progreso": 86,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 76,
+          "nota": 2.6,
+          "progreso": 53,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 66,
+          "nota": 3.5,
+          "progreso": 52,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 68,
+          "nota": 3.4,
+          "progreso": 87,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00097963",
+      "ID": "U00097963",
+      "Semestre": 3,
+      "email": "sara.rodriguez.martinez074@unab.edu.co",
+      "nombre": "Sara Rodríguez Martínez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 80,
+          "nota": 2.4,
+          "progreso": 96,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 84,
+          "nota": 3.4,
+          "progreso": 66,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 54,
+          "nota": 4.4,
+          "progreso": 77,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 87,
+          "nota": 4.5,
+          "progreso": 47,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 81,
+          "nota": 2.7,
+          "progreso": 57,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00224824",
+      "ID": "U00224824",
+      "Semestre": 10,
+      "email": "julian.hernandez.torres075@unab.edu.co",
+      "nombre": "Julián Hernández Torres",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 68,
+          "nota": 4.5,
+          "progreso": 87,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 90,
+          "nota": 3.1,
+          "progreso": 69,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 98,
+          "nota": 3.8,
+          "progreso": 64,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 66,
+          "nota": 4.6,
+          "progreso": 67,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 87,
+          "nota": 2.9,
+          "progreso": 92,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00972731",
+      "ID": "U00972731",
+      "Semestre": 6,
+      "email": "ana.sanchez.cardenas076@unab.edu.co",
+      "nombre": "Ana Sánchez Cárdenas",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 79,
+          "nota": 3.2,
+          "progreso": 86,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 83,
+          "nota": 2.1,
+          "progreso": 85,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 77,
+          "nota": 4.0,
+          "progreso": 68,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 75,
+          "nota": 2.9,
+          "progreso": 66,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 85,
+          "nota": 2.7,
+          "progreso": 70,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00573947",
+      "ID": "U00573947",
+      "Semestre": 3,
+      "email": "samuel.vargas.lopez077@unab.edu.co",
+      "nombre": "Samuel Vargas López",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 92,
+          "nota": 4.7,
+          "progreso": 74,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 88,
+          "nota": 3.0,
+          "progreso": 91,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 85,
+          "nota": 4.3,
+          "progreso": 54,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 81,
+          "nota": 2.8,
+          "progreso": 66,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 92,
+          "nota": 4.2,
+          "progreso": 99,
+          "riesgo": "LOW"
+        }
+      ]
+    },
+    {
+      "documentId": "U00150544",
+      "ID": "U00150544",
+      "Semestre": 4,
+      "email": "daniela.navarro.vargas078@unab.edu.co",
+      "nombre": "Daniela Navarro Vargas",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 82,
+          "nota": 3.0,
+          "progreso": 84,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 61,
+          "nota": 3.0,
+          "progreso": 72,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 85,
+          "nota": 3.8,
+          "progreso": 92,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 80,
+          "nota": 3.5,
+          "progreso": 89,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 92,
+          "nota": 2.1,
+          "progreso": 89,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00059009",
+      "ID": "U00059009",
+      "Semestre": 7,
+      "email": "tomas.cardenas.ortiz079@unab.edu.co",
+      "nombre": "Tomás Cárdenas Ortiz",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 74,
+          "nota": 2.8,
+          "progreso": 47,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 59,
+          "nota": 4.1,
+          "progreso": 82,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 74,
+          "nota": 3.5,
+          "progreso": 75,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 72,
+          "nota": 4.9,
+          "progreso": 72,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 73,
+          "nota": 2.5,
+          "progreso": 81,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00973126",
+      "ID": "U00973126",
+      "Semestre": 3,
+      "email": "mariana.rueda.hernandez080@unab.edu.co",
+      "nombre": "Mariana Rueda Hernández",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 69,
+          "nota": 2.7,
+          "progreso": 91,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 92,
+          "nota": 2.9,
+          "progreso": 87,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 82,
+          "nota": 2.4,
+          "progreso": 75,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 74,
+          "nota": 4.1,
+          "progreso": 74,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 48,
+          "nota": 2.8,
+          "progreso": 97,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00079213",
+      "ID": "U00079213",
+      "Semestre": 6,
+      "email": "esteban.martinez.castro081@unab.edu.co",
+      "nombre": "Esteban Martínez Castro",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 100,
+          "nota": 2.1,
+          "progreso": 56,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 78,
+          "nota": 3.0,
+          "progreso": 87,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 90,
+          "nota": 2.5,
+          "progreso": 68,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 54,
+          "nota": 3.4,
+          "progreso": 54,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 66,
+          "nota": 3.9,
+          "progreso": 68,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00181397",
+      "ID": "U00181397",
+      "Semestre": 3,
+      "email": "luciana.perez.restrepo082@unab.edu.co",
+      "nombre": "Luciana Pérez Restrepo",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 100,
+          "nota": 3.5,
+          "progreso": 42,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 82,
+          "nota": 3.0,
+          "progreso": 48,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 73,
+          "nota": 2.1,
+          "progreso": 100,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 76,
+          "nota": 4.1,
+          "progreso": 78,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 90,
+          "nota": 4.2,
+          "progreso": 80,
+          "riesgo": "LOW"
+        }
+      ]
+    },
+    {
+      "documentId": "U00451238",
+      "ID": "U00451238",
+      "Semestre": 9,
+      "email": "jorge.ramirez.perez083@unab.edu.co",
+      "nombre": "Jorge Ramírez Pérez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 79,
+          "nota": 5.0,
+          "progreso": 68,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 54,
+          "nota": 2.4,
+          "progreso": 69,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 65,
+          "nota": 4.0,
+          "progreso": 100,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 99,
+          "nota": 4.0,
+          "progreso": 78,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 97,
+          "nota": 4.8,
+          "progreso": 82,
+          "riesgo": "LOW"
+        }
+      ]
+    },
+    {
+      "documentId": "U00083003",
+      "ID": "U00083003",
+      "Semestre": 6,
+      "email": "carolina.castro.moreno084@unab.edu.co",
+      "nombre": "Carolina Castro Moreno",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 67,
+          "nota": 2.3,
+          "progreso": 59,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 100,
+          "nota": 4.3,
+          "progreso": 76,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 75,
+          "nota": 3.3,
+          "progreso": 80,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 100,
+          "nota": 4.3,
+          "progreso": 84,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 85,
+          "nota": 4.3,
+          "progreso": 77,
+          "riesgo": "LOW"
+        }
+      ]
+    },
+    {
+      "documentId": "U00882555",
+      "ID": "U00882555",
+      "Semestre": 6,
+      "email": "cristian.mendoza.rueda085@unab.edu.co",
+      "nombre": "Cristian Mendoza Rueda",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 78,
+          "nota": 3.4,
+          "progreso": 85,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 61,
+          "nota": 3.6,
+          "progreso": 97,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 85,
+          "nota": 3.8,
+          "progreso": 68,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 76,
+          "nota": 2.4,
+          "progreso": 94,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 82,
+          "nota": 2.5,
+          "progreso": 66,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00229154",
+      "ID": "U00229154",
+      "Semestre": 1,
+      "email": "valeria.ortiz.garcia086@unab.edu.co",
+      "nombre": "Valeria Ortiz García",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 86,
+          "nota": 3.2,
+          "progreso": 88,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 64,
+          "nota": 4.4,
+          "progreso": 61,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 86,
+          "nota": 4.4,
+          "progreso": 61,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 57,
+          "nota": 2.9,
+          "progreso": 54,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 87,
+          "nota": 3.5,
+          "progreso": 89,
+          "riesgo": "LOW"
+        }
+      ]
+    },
+    {
+      "documentId": "U00207687",
+      "ID": "U00207687",
+      "Semestre": 1,
+      "email": "jose.gomez.navarro087@unab.edu.co",
+      "nombre": "José Gómez Navarro",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 74,
+          "nota": 2.0,
+          "progreso": 81,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 97,
+          "nota": 2.7,
+          "progreso": 87,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 95,
+          "nota": 1.8,
+          "progreso": 86,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 73,
+          "nota": 3.4,
+          "progreso": 75,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 81,
+          "nota": 4.2,
+          "progreso": 78,
+          "riesgo": "LOW"
+        }
+      ]
+    },
+    {
+      "documentId": "U00591399",
+      "ID": "U00591399",
+      "Semestre": 6,
+      "email": "juliana.lopez.gomez088@unab.edu.co",
+      "nombre": "Juliana López Gómez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 65,
+          "nota": 2.8,
+          "progreso": 74,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 79,
+          "nota": 4.1,
+          "progreso": 59,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 75,
+          "nota": 2.9,
+          "progreso": 88,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 100,
+          "nota": 3.9,
+          "progreso": 94,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 89,
+          "nota": 2.8,
+          "progreso": 75,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00768783",
+      "ID": "U00768783",
+      "Semestre": 10,
+      "email": "kevin.garcia.sanchez089@unab.edu.co",
+      "nombre": "Kevin García Sánchez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 77,
+          "nota": 3.0,
+          "progreso": 87,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 74,
+          "nota": 4.5,
+          "progreso": 87,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 82,
+          "nota": 5.0,
+          "progreso": 83,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 84,
+          "nota": 2.9,
+          "progreso": 72,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 100,
+          "nota": 3.7,
+          "progreso": 58,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00670342",
+      "ID": "U00670342",
+      "Semestre": 4,
+      "email": "andrea.torres.mendoza090@unab.edu.co",
+      "nombre": "Andrea Torres Mendoza",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 75,
+          "nota": 2.5,
+          "progreso": 62,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 72,
+          "nota": 3.8,
+          "progreso": 86,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 78,
+          "nota": 4.1,
+          "progreso": 55,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 85,
+          "nota": 4.1,
+          "progreso": 72,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 53,
+          "nota": 3.5,
+          "progreso": 76,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00243924",
+      "ID": "U00243924",
+      "Semestre": 5,
+      "email": "luis.moreno.rodriguez091@unab.edu.co",
+      "nombre": "Luis Moreno Rodríguez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 96,
+          "nota": 2.2,
+          "progreso": 98,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 87,
+          "nota": 4.8,
+          "progreso": 67,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 72,
+          "nota": 3.7,
+          "progreso": 100,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 90,
+          "nota": 4.4,
+          "progreso": 83,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 68,
+          "nota": 3.3,
+          "progreso": 93,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00414051",
+      "ID": "U00414051",
+      "Semestre": 1,
+      "email": "melissa.suarez.ramirez092@unab.edu.co",
+      "nombre": "Melissa Suárez Ramírez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 69,
+          "nota": 3.3,
+          "progreso": 63,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 96,
+          "nota": 2.6,
+          "progreso": 57,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 77,
+          "nota": 2.4,
+          "progreso": 75,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 97,
+          "nota": 3.4,
+          "progreso": 66,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 64,
+          "nota": 3.2,
+          "progreso": 89,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00325745",
+      "ID": "U00325745",
+      "Semestre": 6,
+      "email": "ricardo.restrepo.suarez093@unab.edu.co",
+      "nombre": "Ricardo Restrepo Suárez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 87,
+          "nota": 3.8,
+          "progreso": 95,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 84,
+          "nota": 2.3,
+          "progreso": 100,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 63,
+          "nota": 4.5,
+          "progreso": 93,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 94,
+          "nota": 2.5,
+          "progreso": 82,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 76,
+          "nota": 1.9,
+          "progreso": 72,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00853970",
+      "ID": "U00853970",
+      "Semestre": 8,
+      "email": "diana.rodriguez.martinez094@unab.edu.co",
+      "nombre": "Diana Rodríguez Martínez",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 56,
+          "nota": 4.8,
+          "progreso": 72,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 88,
+          "nota": 3.3,
+          "progreso": 93,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 96,
+          "nota": 3.9,
+          "progreso": 83,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 79,
+          "nota": 2.5,
+          "progreso": 46,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 64,
+          "nota": 2.9,
+          "progreso": 85,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00014088",
+      "ID": "U00014088",
+      "Semestre": 1,
+      "email": "mauricio.hernandez.torres095@unab.edu.co",
+      "nombre": "Mauricio Hernández Torres",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 69,
+          "nota": 4.5,
+          "progreso": 70,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 100,
+          "nota": 3.6,
+          "progreso": 67,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 100,
+          "nota": 2.7,
+          "progreso": 65,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 81,
+          "nota": 4.9,
+          "progreso": 68,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 73,
+          "nota": 2.0,
+          "progreso": 80,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00050096",
+      "ID": "U00050096",
+      "Semestre": 2,
+      "email": "tatiana.sanchez.cardenas096@unab.edu.co",
+      "nombre": "Tatiana Sánchez Cárdenas",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 77,
+          "nota": 3.4,
+          "progreso": 80,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 68,
+          "nota": 4.2,
+          "progreso": 63,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 69,
+          "nota": 4.5,
+          "progreso": 75,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 68,
+          "nota": 5.0,
+          "progreso": 94,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 97,
+          "nota": 2.7,
+          "progreso": 94,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00558399",
+      "ID": "U00558399",
+      "Semestre": 1,
+      "email": "alvaro.vargas.lopez097@unab.edu.co",
+      "nombre": "Álvaro Vargas López",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 78,
+          "nota": 4.4,
+          "progreso": 67,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 100,
+          "nota": 4.0,
+          "progreso": 83,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 82,
+          "nota": 2.9,
+          "progreso": 53,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 88,
+          "nota": 3.9,
+          "progreso": 62,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 77,
+          "nota": 3.4,
+          "progreso": 100,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00719548",
+      "ID": "U00719548",
+      "Semestre": 4,
+      "email": "catalina.navarro.vargas098@unab.edu.co",
+      "nombre": "Catalina Navarro Vargas",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 100,
+          "nota": 1.8,
+          "progreso": 92,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 81,
+          "nota": 4.2,
+          "progreso": 60,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 77,
+          "nota": 3.7,
+          "progreso": 100,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 78,
+          "nota": 2.7,
+          "progreso": 86,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 74,
+          "nota": 4.3,
+          "progreso": 84,
+          "riesgo": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "documentId": "U00212666",
+      "ID": "U00212666",
+      "Semestre": 6,
+      "email": "oscar.cardenas.ortiz099@unab.edu.co",
+      "nombre": "Óscar Cárdenas Ortiz",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 51,
+          "nota": 4.9,
+          "progreso": 79,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 74,
+          "nota": 4.0,
+          "progreso": 58,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 74,
+          "nota": 3.3,
+          "progreso": 91,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 95,
+          "nota": 4.7,
+          "progreso": 76,
+          "riesgo": "LOW"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 65,
+          "nota": 2.8,
+          "progreso": 57,
+          "riesgo": "HIGH"
+        }
+      ]
+    },
+    {
+      "documentId": "U00233795",
+      "ID": "U00233795",
+      "Semestre": 8,
+      "email": "monica.rueda.hernandez100@unab.edu.co",
+      "nombre": "Mónica Rueda Hernández",
+      "programa": "Ingeniería de Sistemas",
+      "Cursos": [
+        {
+          "documentId": "calculo",
+          "Materia": "Cálculo Diferencial",
+          "asistencia": 79,
+          "nota": 4.4,
+          "progreso": 65,
+          "riesgo": "MEDIUM"
+        },
+        {
+          "documentId": "programacion",
+          "Materia": "Fundamentos de Programación",
+          "asistencia": 64,
+          "nota": 3.8,
+          "progreso": 82,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "algebra",
+          "Materia": "Álgebra Lineal",
+          "asistencia": 84,
+          "nota": 2.6,
+          "progreso": 59,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "bases_datos",
+          "Materia": "Bases de Datos",
+          "asistencia": 86,
+          "nota": 2.9,
+          "progreso": 74,
+          "riesgo": "HIGH"
+        },
+        {
+          "documentId": "comunicacion",
+          "Materia": "Comunicación",
+          "asistencia": 82,
+          "nota": 2.1,
+          "progreso": 63,
+          "riesgo": "HIGH"
+        }
+      ]
+    }
+  ]
+}

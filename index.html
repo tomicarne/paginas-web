@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Academic Alert - Firebase</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+<nav id="menu" style="display:none;">
+    <div><strong>📚 Academic Alert</strong></div>
+    <div class="user-info" id="userInfo"></div>
+    <div class="links">
+        <button data-seccion="inicio">🏠 Home</button>
+        <button data-seccion="config">➕ Add Subject</button>
+        <button data-seccion="faltas">📝 Absences</button>
+        <button data-seccion="evaluacion">⚡ Evaluation</button>
+        <button data-seccion="perfil">👤 My Profile</button>
+        <button id="btnLogout">🚪 Logout</button>
+    </div>
+</nav>
+<div class="container">
+<section id="login" class="active center">
+    <div class="card login-box">
+        <h2 id="formTitle">Sign In</h2>
+        <input type="email" id="usuario" placeholder="Email">
+        <input type="password" id="password" placeholder="Password">
+        <input type="text" id="nombreCompleto" placeholder="Full name (only for registration)" class="hidden">
+        <input type="text" id="idEstudiante" placeholder="ID (ej. U00960443)" class="hidden">
+        <input type="text" id="programa" placeholder="Programa (ej. Ingeniería de Sistemas)" class="hidden">
+        <input type="number" id="semestre" placeholder="Semestre (1-10)" class="hidden">
+        <button id="btnLogin">Sign In</button>
+        <div class="toggle-form"><a id="toggleLink">Don't have an account? Register</a></div>
+        <div id="loginMessage"></div>
+    </div>
+</section>
+<section id="inicio">
+    <h2>📊 Dashboard</h2><div class="stats" id="stats"></div><div id="resumen" class="grid"></div>
+</section>
+<section id="config">
+    <h2>➕ Add Subject</h2>
+    <div class="card"><input type="text" id="materia" placeholder="Subject name"><input type="number" id="nota" placeholder="Average grade (0-5)" step="0.1" min="0" max="5"><button id="btnAgregarMateria">Add Subject</button></div>
+    <div class="card"><h3>📋 My Subjects</h3><div class="table-container"><table class="data-table" id="tablaMaterias"><thead><tr><th>Subject</th><th>Grade</th><th>Absences</th><th>Status</th><th>Actions</th></tr></thead><tbody id="listaMaterias"></tbody></table></div></div>
+</section>
+<section id="faltas">
+    <h2>📝 Record Absences</h2><div class="card"><select id="materiaFaltas"></select><input type="number" id="faltasNum" placeholder="Number of absences" min="0"><button id="btnGuardarFaltas">Save Absences</button></div>
+</section>
+<section id="evaluacion">
+    <h2>⚡ Risk Evaluation</h2><div class="card"><select id="materiaEval"></select><button id="btnEvaluar">Evaluate Subject</button><div id="resultadoEvaluacion" style="margin-top:15px;"></div></div>
+</section>
+<section id="perfil">
+    <h2>👤 My Profile</h2>
+    <div class="card">
+        <p><strong>Email:</strong> <span id="perfilUsuario"></span></p><p><strong>Full Name:</strong> <span id="perfilNombre"></span></p><p><strong>Registration Date:</strong> <span id="perfilFecha"></span></p><hr style="margin:15px 0;"><h4>Change Password</h4>
+        <input type="password" id="nuevaPass" placeholder="New password"><input type="password" id="confirmPass" placeholder="Confirm password"><button id="btnCambiarPass">Update Password</button><button id="btnExportar" style="background:var(--success);">📥 Export My Data</button><button id="btnEliminarCuenta" class="danger" style="margin-left:10px;">🗑️ Delete Account</button><div id="perfilMessage"></div>
+    </div>
+</section>
+</div>
+<script type="importmap">
+{"imports":{"firebase/app":"https://www.gstatic.com/firebasejs/10.14.1/firebase-app.js","firebase/auth":"https://www.gstatic.com/firebasejs/10.14.1/firebase-auth.js","firebase/firestore":"https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js"}}
+</script>
+<script type="module" src="./js/app.js"></script>
+</body>
+</html>
