@@ -63,6 +63,7 @@ export async function cargarPerfil(user) {
     return {
         nombre: data.nombre || "",
         programa: data.programa || "",
+        semestre: data.Semestre,
         fechaRegistro: user.metadata?.creationTime || new Date().toISOString(),
         materias: []
     };

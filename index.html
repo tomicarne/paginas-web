@@ -16,6 +16,7 @@
         <button data-seccion="config">➕ Add Subject</button>
         <button data-seccion="faltas">📝 Absences</button>
         <button data-seccion="evaluacion">⚡ Evaluation</button>
+        <button data-seccion="ia">🤖 AI Risk</button>
         <button data-seccion="perfil">👤 My Profile</button>
         <button id="btnLogout">🚪 Logout</button>
     </div>
@@ -54,6 +55,16 @@
     <div class="card">
         <p><strong>Email:</strong> <span id="perfilUsuario"></span></p><p><strong>Full Name:</strong> <span id="perfilNombre"></span></p><p><strong>Registration Date:</strong> <span id="perfilFecha"></span></p><hr style="margin:15px 0;"><h4>Change Password</h4>
         <input type="password" id="nuevaPass" placeholder="New password"><input type="password" id="confirmPass" placeholder="Confirm password"><button id="btnCambiarPass">Update Password</button><button id="btnExportar" style="background:var(--success);">📥 Export My Data</button><button id="btnEliminarCuenta" class="danger" style="margin-left:10px;">🗑️ Delete Account</button><div id="perfilMessage"></div>
+    </div>
+</section>
+<section id="ia">
+    <h2>🤖 AI Risk Prediction</h2>
+    <div class="card">
+        <select id="materiaIA"></select>
+        <input type="number" id="asistenciaIA" placeholder="Attendance % (0-100)" min="0" max="100">
+        <input type="number" id="progresoIA" placeholder="Progress % (0-100)" min="0" max="100">
+        <button id="btnPredecirIA">Predict risk</button>
+        <div id="resultadoIA" style="margin-top:15px;"></div>
     </div>
 </section>
 </div>

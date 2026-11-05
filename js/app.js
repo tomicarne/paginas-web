@@ -2,7 +2,7 @@ import { auth } from "./firebase.js";
 import { cambiarPassword, cargarPerfil, escucharAuth, login, logout, registrar } from "./auth.js";
 import { agregarMateria, cargarMaterias, editarMateria, eliminarMateria, eliminarPerfil, guardarFaltas } from "./materias.js";
 import { actualizarUI, mostrar, mostrarResultado } from "./ui.js";
-
+import { predecirRiesgo, mostrarResultadoIA } from "./ia.js";
 let currentUser = null;
 let userProfile = null;
 
@@ -161,4 +161,33 @@ document.getElementById("btnEliminarCuenta").addEventListener("click", async () 
         await currentUser.delete();
         await logout();
     } catch (error) { alert("❌ Error deleting account: " + error.message); }
+});
+
+const buscarMateria = nombre => (userProfile?.materias || []).find(m => m.nombre === nombre);
+
+document.getElementById("materiaIA").addEventListener("change", event => {
+    const m = buscarMateria(event.target.value);
+    document.getElementById("asistenciaIA").value = m?.asistencia ?? "";
+    document.getElementById("progresoIA").value = m?.progreso ?? "";
+});
+
+document.getElementById("btnPredecirIA").addEventListener("click", async () => {
+    const m = buscarMateria(document.getElementById("materiaIA").value);
+    if (!m) return alert("Select a subject");
+
+    const asistencia = parseFloat(document.getElementById("asistenciaIA").value);
+    const progreso = parseFloat(document.getElementById("progresoIA").value);
+    const boton = document.getElementById("btnPredecirIA");
+    const out = document.getElementById("resultadoIA");
+
+    boton.disabled = true;
+    out.textContent = "⏳ Contacting the AI service (the first request can take up to a minute)...";
+    try {
+        const data = await predecirRiesgo({ ...m, asistencia, progreso }, userProfile.semestre);
+        mostrarResultadoIA(data);
+    } catch (error) {
+        out.textContent = "❌ " + error.message;
+    } finally {
+        boton.disabled = false;
+    }
 });

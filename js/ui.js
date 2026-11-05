@@ -18,7 +18,7 @@ export function nivelRiesgo(m) {
 export function actualizarUI(profile) {
     if (!profile) return;
     const materias = profile.materias || [];
-    ["materiaFaltas", "materiaEval"].forEach(id => {
+    ["materiaFaltas", "materiaEval", "materiaIA"].forEach(id => {
         const select = document.getElementById(id);
         if (!select) return;
         select.innerHTML = '<option value="">Select subject</option>';
