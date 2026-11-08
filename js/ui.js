@@ -1,3 +1,5 @@
+import { MATERIAS_IA, normalizar } from "./ia.js";
+
 export function mostrar(id, actualizarUI) {
     document.querySelectorAll("section").forEach(section => section.classList.remove("active"));
     const section = document.getElementById(id);
@@ -18,7 +20,7 @@ export function nivelRiesgo(m) {
 export function actualizarUI(profile) {
     if (!profile) return;
     const materias = profile.materias || [];
-    ["materiaFaltas", "materiaEval", "materiaIA"].forEach(id => {
+    ["materiaFaltas", "materiaEval"].forEach(id => {
         const select = document.getElementById(id);
         if (!select) return;
         select.innerHTML = '<option value="">Select subject</option>';
@@ -29,6 +31,21 @@ export function actualizarUI(profile) {
             select.appendChild(option);
         });
     });
+        const selectIA = document.getElementById("materiaIA");
+    if (selectIA) {
+        const seleccion = selectIA.value;
+        selectIA.innerHTML = '<option value="">Select subject</option>';
+        materias.forEach(materia => {
+            const valor = normalizar(materia.nombre);
+            const soportada = MATERIAS_IA.includes(valor);
+            const option = document.createElement("option");
+            option.value = valor;
+            option.textContent = soportada ? materia.nombre : `${materia.nombre} (not supported by the AI)`;
+            option.disabled = !soportada;
+            selectIA.appendChild(option);
+        });
+        selectIA.value = seleccion;
+    }
 
     const total = materias.length;
     const riesgoAlto = materias.filter(m => nivelRiesgo(m) === "high").length;

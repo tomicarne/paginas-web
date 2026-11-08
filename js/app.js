@@ -2,7 +2,7 @@ import { auth } from "./firebase.js";
 import { cambiarPassword, cargarPerfil, escucharAuth, login, logout, registrar } from "./auth.js";
 import { agregarMateria, cargarMaterias, editarMateria, eliminarMateria, eliminarPerfil, guardarFaltas } from "./materias.js";
 import { actualizarUI, mostrar, mostrarResultado } from "./ui.js";
-import { predecirRiesgo, mostrarResultadoIA } from "./ia.js";
+import { predecirRiesgo, mostrarResultadoIA, normalizar, datosIADeMateria } from "./ia.js";
 let currentUser = null;
 let userProfile = null;
 
@@ -166,25 +166,40 @@ document.getElementById("btnEliminarCuenta").addEventListener("click", async () 
 const buscarMateria = nombre => (userProfile?.materias || []).find(m => m.nombre === nombre);
 
 document.getElementById("materiaIA").addEventListener("change", event => {
-    const m = buscarMateria(event.target.value);
-    document.getElementById("asistenciaIA").value = m?.asistencia ?? "";
-    document.getElementById("progresoIA").value = m?.progreso ?? "";
+    const m = (userProfile?.materias || []).find(x => normalizar(x.nombre) === event.target.value);
+    const d = m ? datosIADeMateria(m) : {};
+    const poner = (id, valor) => { document.getElementById(id).value = valor ?? ""; };
+    poner("sh1IA", d.SH_1);
+    poner("sf1IA", d.SF_1);
+    poner("creditosIA", d.creditos_asignatura);
+    poner("asistenciaIA", d.asistencia_actual);
+    poner("inasistenciaIA", d.inasistencia_actual);
 });
 
 document.getElementById("btnPredecirIA").addEventListener("click", async () => {
-    const m = buscarMateria(document.getElementById("materiaIA").value);
-    if (!m) return alert("Select a subject");
+    const nombre = document.getElementById("materiaIA").value;
+    if (!nombre) return alert("Select a subject");
 
-    const asistencia = parseFloat(document.getElementById("asistenciaIA").value);
-    const progreso = parseFloat(document.getElementById("progresoIA").value);
+    const num = id => parseFloat(document.getElementById(id).value);
+    const datos = {
+        SH_1: num("sh1IA"),
+        SF_1: num("sf1IA"),
+        creditos_asignatura: num("creditosIA"),
+        asistencia_actual: num("asistenciaIA"),
+        inasistencia_actual: num("inasistenciaIA"),
+        asignatura: nombre
+    };
+
+    if ([datos.SH_1, datos.SF_1].some(v => isNaN(v) || v < 0 || v > 5)) return alert("SH_1 and SF_1 must be between 0 and 5");
+    if (isNaN(datos.creditos_asignatura) || datos.creditos_asignatura <= 0) return alert("Credits must be greater than 0");
+    if ([datos.asistencia_actual, datos.inasistencia_actual].some(v => isNaN(v) || v < 0)) return alert("Attendance values must be 0 or more");
+
     const boton = document.getElementById("btnPredecirIA");
     const out = document.getElementById("resultadoIA");
-
     boton.disabled = true;
     out.textContent = "⏳ Contacting the AI service (the first request can take up to a minute)...";
     try {
-        const data = await predecirRiesgo({ ...m, asistencia, progreso }, userProfile.semestre);
-        mostrarResultadoIA(data);
+        mostrarResultadoIA(await predecirRiesgo(datos));
     } catch (error) {
         out.textContent = "❌ " + error.message;
     } finally {

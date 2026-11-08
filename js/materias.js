@@ -38,12 +38,17 @@ export async function cargarMaterias(user) {
                 faltas: 0,
                 asistencia: c.asistencia,
                 progreso: c.progreso,
-                riesgo: c.riesgo
+                riesgo: c.riesgo,
+                SH_1: c.SH_1,
+                SF_1: c.SF_1,
+                creditos_asignatura: c.creditos_asignatura,
+                asistencia_actual: c.asistencia_actual,
+                inasistencia_actual: c.inasistencia_actual
             };
         });
+    }
     return combinar(user);
-}}
-
+}
 // Aplica cambios a una materia (extra local o curso de Firestore)
 function modificar(user, nombre, campos) {
     const local = leerLocal(user);
